@@ -1,38 +1,32 @@
 # Dungeon Generator Zelda Style
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+Ik wil een dungeon generator maken in de stijl van de NES zelda game. daarmee bedoel ik dat elke room dezelfde vorm heeft en als een grid aan elkaar aansluit.
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
+Deze dingen vind ik het meest interresant om te laten zien.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Voorbeeld](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+In princiepe kan ik bijna elke taal kiezen om een dungeon generator te maken.
+Echter wil ik dit project gebruiken voor een groter project dat ik in Unity wil maken (omwille van mijn ervaring in Unity).
+daarom kies ik voor Unity
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- Hoe ik een functionele map kan laten genereren.
+- hoe ik dan de rooms de goede kant op kan laten staan bij spawnen (i.v.m. doorgangen)
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | -test-- | --- | --- |
 |week 1 |
 |week 2 |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Voorbeeld](link)
 =======
 # DungeonGeneratorZeldaStyle
 
