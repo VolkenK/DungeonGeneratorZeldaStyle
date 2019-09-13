@@ -21,7 +21,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | planning van aanpak |
+|week 1 | planning van aanpak | programmeren | programmeren | programmeren | programmeren| programmeren |
 |week 2 |
 
 ## Bronnen
