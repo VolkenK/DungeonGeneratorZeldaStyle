@@ -62,8 +62,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GenerateMap.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\GenerateMap.cs" />
+    <Compile Include="Assets\Scripts\Player\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Player\GunControll.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Player\Shoot.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/volken/Desktop/DungeonGeneratorZeldaStyle/DungeonGeneratorZeldaStyle/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
