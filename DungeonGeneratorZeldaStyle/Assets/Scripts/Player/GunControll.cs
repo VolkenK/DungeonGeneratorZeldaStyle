@@ -13,6 +13,8 @@ public class GunControll : MonoBehaviour
     void Update()
     {
 
+
+
         //up
         if (Input.GetKey(KeyCode.UpArrow) && !Input.GetKey(KeyCode.LeftArrow) && !Input.GetKey(KeyCode.DownArrow) && !Input.GetKey(KeyCode.RightArrow))
         {
@@ -62,7 +64,7 @@ public class GunControll : MonoBehaviour
         }
 
 
-        transform.rotation = Quaternion.Slerp(transform.rotation, test, 0.05f);
+        transform.rotation = Quaternion.Slerp(transform.rotation, test, 0.10f);
     }
     
 }
